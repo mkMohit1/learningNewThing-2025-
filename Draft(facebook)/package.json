@@ -1,5 +1,5 @@
 {
-  "name": "my-rich-text-editor",
+  "name": "mk3606-rich-text-editor",
   "version": "1.0.0",
   "dependencies": {
     "draft-js": "^0.11.7",

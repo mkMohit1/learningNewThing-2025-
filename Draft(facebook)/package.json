@@ -1,4 +1,6 @@
 {
+  "name": "my-rich-text-editor",
+  "version": "1.0.0",
   "dependencies": {
     "draft-js": "^0.11.7",
     "react": "^19.0.0",
